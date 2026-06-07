@@ -186,11 +186,7 @@ www.linkedin.com/in/sajid-ali2005
 
 ## 🔗 LinkedIn Project Post
 
-**Add your LinkedIn project post link below:**
-
-```
-PASTE_YOUR_LINKEDIN_POST_LINK_HERE
-```
+[View the LinkedIn Post](https://www.linkedin.com/posts/sajid-ali2005_weatherapp-python-tkinter-ugcPost-7469419554197147648-ZLYF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF65lLwBKEPFHDUAUEYrcv_2rpi1abK1LPs)
 
 ---
 
